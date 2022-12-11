@@ -1,6 +1,7 @@
 const API_ORIGIN = 'https://api.covid19api.com';
 const GET_SUMMARY = `${API_ORIGIN}/summary`;
-
+// https://www.tutorialspoint.com/d3js/d3js_drawing_charts.htm
+// try to convert this bar chart into a pie chart.
 const BREAKPOINTS = {
     xs: 0,
     sm: 600,
